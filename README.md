@@ -18,7 +18,7 @@ In today's material world, we human beings generate huge sum of waste in our dai
 For individuals, some may believe disposing waste is effortless because they just need to pack it up and then throw it into a waste bin. At the city level, however, it is not exaggerating to say that it is almost a war every day to cope with those waste.
 And the situation will be even worse in the future, according to the World Bank’s new What a Waste 2.0:  [A Global Snapshot of Solid Waste Management to 2050 report](https://openknowledge.worldbank.org/handle/10986/30317)
 
-However, for the better part of the country, many countries are still disposing waste with traditional ways such as incinerating, compost and landfill. These methods are all inefficient and pose a great burden to cities.
+However, for the better part of the century, many countries are still disposing waste with traditional ways such as incinerating, compost and landfill. These methods are all inefficient and pose a great burden to cities.
 
 ![Many cities are inundated with waste](assets/landfill1.jpg)
 
@@ -36,7 +36,7 @@ As we can see that as Chinese government and people are placing more and more em
 
 ## Difficulties in instigating Garbage Sorting in China
 
-The new regulation requires people to sort trash into four categories - household food waste, recyclables and hazardous waste, residual waste. Individuals and companies who fail to do so may be fined up to 50,000 yuan.
+The new regulation requires people to sort trash into four categories - household food waste, recyclables hazardous waste, and residual waste. Individuals and companies who fail to do so may be fined up to 50,000 yuan.
 
 After a few months' observation, the major hurdle has been found is not people's willingness to sort their trash, instead, it is that they are often confused with how to sort some vague items.
 
@@ -45,12 +45,12 @@ The image is a guidance for how to match common waste with the bins. As we can s
 
 In addition, for those uncommon waste, most people just throw by guessing because looking up a notebook is both demanding and time-consuming.  
 
-For example, which bin of the four (household food waste, recyclables and hazardous waste, residual waste) do you think a "pencil" should be in? Well, the first one to the mind is "Recyclables" because I believe someone may want to reuse it. Then I would be fined because pencil contains lead which is noxious, it belongs to the "Hazardous waste" bin. It really needs some knowledge of chemistry, don't it?
+For example, which bin of the four (household food waste, recyclables hazardous waste, and residual waste) do you think a "pencil" should be in? Well, the first one to the mind is "Recyclables" because I believe someone may want to reuse it. Then I would be fined because pencil contains lead which is noxious, it belongs to the "Hazardous waste" bin. It really needs some knowledge of chemistry, don't it?
 There are also some examples out of my knowledge, such as mirror which belongs to hazardous, tabacco(residual waste) ect.
 
 ## How my idea can help with Garbage Sorting
 
-So I alight upon on an idea of **building an Android application which contains an offline tensorflow model** to help people sort the garbage seeing that machine learning is powerful in object recognization and Android has largest user group in the world.
+So I alight upon on an idea of **building an Android application which contains an offline tensorflow model** to help people sort the garbage seeing that machine learning is powerful in object recognization and Android has largest user group across the world.
 
 #### Model Design
 
